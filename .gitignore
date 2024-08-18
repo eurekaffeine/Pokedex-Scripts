@@ -1,4 +1,6 @@
 /myenv
+/assets
+/intermediate
 # ignore python cache files
 *.pyc
 # ignore python cache directories
